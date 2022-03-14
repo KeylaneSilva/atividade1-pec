@@ -1,0 +1,8 @@
+print("Aqui vai um dinossauro. Parabénss!!")
+print("                __ ")
+print("               / _)")
+print("              / /  ")
+print("       .-^^^-/ /   ")
+print("      /       /    ")
+print("   __/        |    ")
+print(" < __ .|_|  |_|    ")

@@ -1,0 +1,5 @@
+print("Eu moro em uma casa")
+print("    /\   ")
+print("   /  \  ")
+print("  |    | ")
+print("  |    | ")
